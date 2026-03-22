@@ -1,5 +1,5 @@
 import matplotlib
-matplotlib.use('Agg')  # 核心：强制使用 Agg 后端，它是纯图片生成的，非常稳定
+
 import streamlit as st
 import pandas as pd
 import numpy as np
